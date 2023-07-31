@@ -1,0 +1,6 @@
+﻿Name,Quantity,Component
+"UTransmit, UC",2," Arduino Uno R3"
+"S1",1," Pushbutton"
+"R1",1,"100 Ω Resistor"
+"D1",1,"Red LED"
+"R2",1,"300 Ω Resistor"
